@@ -1,5 +1,9 @@
 TREUE-TECHNOLOGIES-BANK-CUSTOMER-CHURN-PREDICTION
 
+Introduction
+     
+     Customer churn is a critical problem for businesses, including banks. Predicting which customers are likely to churn can help businesses take proactive measures to retain those customers. In 
+     this project, we use a dataset containing various features of bank customers to build predictive models for customer churn.
 
 IMPORTING LIBRARIES:
 
